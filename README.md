@@ -12,4 +12,4 @@ May 1, 2022
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FreddyTF/QuantumSweeper.git/HEAD?labpath=InitialProgramm%20(1).ipynb)
 
-<img src="new_Images/dhbw.png" width=400 height=400 />
+<img src="new_Images/dhbw.png" width=400/>
