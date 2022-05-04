@@ -1,11 +1,12 @@
-This is the abstract
-
 
 [//]: <> (Freddy Initial Experiment)
 
-Detailed Explanation of the Quantum Biscuit Tester. Analysis of the Implemenation by Maria Volaris.
-Development of own quantum circuit to improve performance.
-Analysis and critical reflextion of improvememnts by Maria Volaris
+After basics about quantum computing which is required to understand the following, there comes a detailed explanation of the Quantum Biscuit Tester. 
+We describe a realisation of this experiment in qiskit and analyse the result.
+From a phsyical point of view about the experiment we improve the experiment by adapting 
+components of the quantum biscuit tester and using the quantum zeno effect.
+After that, there comes an analysis of our own new improvement and the 
+improvements by Maria Volaris.
 
 [//]: <> (Niklas Optimization)
 To achieve better probability results it is necessary to optimize Soft- and Hardware.
