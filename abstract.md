@@ -1,11 +1,11 @@
 
 [//]: <> (Freddy Initial Experiment)
 
-After basics about quantum computing which is required to understand the following, there comes a detailed explanation of the Quantum Biscuit Tester. 
+After basics about quantum computing, a detailed explanation of the Quantum Biscuit Tester comes. 
 We describe a realisation of this experiment in qiskit and analyse the result.
-From a phsyical point of view about the experiment we improve the experiment by adapting 
+From a phsyical point of view about the experiment, we improve the experiment by adapting 
 components of the quantum biscuit tester and using the quantum zeno effect.
-After that, there comes an analysis of our own new improvement and the 
+After that we analyse our own improvement and the 
 improvements by Maria Volaris.
 
 [//]: <> (Niklas Optimization)
@@ -16,4 +16,4 @@ gate structure.
 Hardware optimization was achieved by running the program on a Quantum Computer with the highest
 Quantum Volume possible.
 
-By combining all of these techniques, the probability increased by 10%.
+By combining all of these techniques, the probability of the wanted result increased by 10%.
